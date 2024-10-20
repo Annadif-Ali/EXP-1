@@ -1,1 +1,1 @@
-this is code for experiment 1
+We started with "Hello World," then moved to Basic User Input and Output. Finally, we created a Simple Calculator to perform arithmetic operations. These programs build a solid foundation in C++, emphasizing interaction and basic operations. They set the stage for tackling more complex coding challenges with confidence.
